@@ -1,1 +1,0 @@
-/home/hamza/Desktop/temp/shopping_mall/target/debug/shopping_mall: /home/hamza/Desktop/temp/shopping_mall/src/lib.rs /home/hamza/Desktop/temp/shopping_mall/src/main.rs /home/hamza/Desktop/temp/shopping_mall/src/mall.rs
